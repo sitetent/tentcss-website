@@ -1,0 +1,36 @@
+{
+  "name": "tent-website",
+  "version": "1.0.0",
+  "description": "Website and documentation for Tent CSS",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitetent/tentcss-website.git"
+  },
+  "author": "Aaron Mazade <ulinaaron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitetent/tentcss-website/issues"
+  },
+  "homepage": "https://css.sitetent.com/",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "browser-sync": "^2.7.1",
+    "del": "^1.2.0",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-bulk-import": "^1.0.1",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "tent-css": "^1.2.3"
+  }
+}
