@@ -10,4 +10,4 @@ deploy:
   local_dir: dist
   target_branch: gh-pages
   on:
-    branch: docs
+    branch: master
